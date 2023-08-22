@@ -5,7 +5,7 @@
 This project was created for developers and users to be able to create notes or code snippets with or without an internet connection so that the user can reliably retrieve them for later use. 
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
