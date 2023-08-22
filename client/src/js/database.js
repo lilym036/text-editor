@@ -21,7 +21,7 @@ export const putDb = async (content) => {
   const request = store.put({  id: 1, text: content});
   const result = await request;
   console.log('Data saved to the database', result);
-  console.error('putDb not implemented');
+  // console.error('putDb not implemented');
 }
 
 
@@ -37,7 +37,7 @@ export const getDb = async () => {
   const result = await request;
   console.log('result.value', result);
   return result;
-  console.error('getDb not implemented');
+  // console.error('getDb not implemented');
 }
 
 
